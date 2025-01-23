@@ -1,1 +1,1 @@
-# Forecasting_AQI_of_Chandigarh
+# Forecasting AQI of Chandigarh
